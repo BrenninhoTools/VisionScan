@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M32,42V36Q32,32 36,32H42M66,32H72Q76,32 76,36V42M76,66V72Q76,76 72,76H66M42,76H36Q32,76 32,72V66"
+        android:strokeWidth="3.5"
+        android:strokeColor="@color/launcher_foreground"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:fillColor="@color/launcher_foreground"
+        android:pathData="M44,38H60L67,45V67Q67,70 64,70H44Q41,70 41,67V41Q41,38 44,38Z" />
+    <path
+        android:fillColor="@color/launcher_fold"
+        android:pathData="M60,38V42Q60,45 63,45H67Z" />
+    <path
+        android:pathData="M46,47H55M46,61H62M46,65.5H57"
+        android:strokeWidth="2.2"
+        android:strokeColor="@color/launcher_text_line"
+        android:strokeLineCap="round" />
+    <path
+        android:fillColor="@color/launcher_beam_glow"
+        android:pathData="M36,51.5H72Q74.5,51.5 74.5,54Q74.5,56.5 72,56.5H36Q33.5,56.5 33.5,54Q33.5,51.5 36,51.5Z" />
+    <path
+        android:pathData="M36,54H72"
+        android:strokeWidth="2.4"
+        android:strokeColor="@color/launcher_beam"
+        android:strokeLineCap="round" />
+</vector>

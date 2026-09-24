@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="launcher_gradient_start">#1E4FD8</color>
+    <color name="launcher_gradient_end">#00A6B8</color>
+    <color name="launcher_foreground">#FFFFFF</color>
+    <color name="launcher_fold">#C7D5FF</color>
+    <color name="launcher_text_line">#8FA8EC</color>
+    <color name="launcher_beam">#5EF2DF</color>
+    <color name="launcher_beam_glow">#595EF2DF</color>
+</resources>
